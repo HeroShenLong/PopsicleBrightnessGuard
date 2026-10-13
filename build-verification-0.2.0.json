@@ -1,0 +1,28 @@
+{
+  "host_checks": {
+    "PolicyTest": 48,
+    "HookIntegrationTest": 24,
+    "BrightnessMonitorTest": 38
+  },
+  "total_host_checks": 110,
+  "test_note": "isolated JVM checks, not ART/device tests",
+  "artifacts": [
+    {
+      "file": "PopsicleBrightnessGuard-0.2.0-modern.apk",
+      "bytes": 49847,
+      "sha256": "1d7028c123422c658b9619adcc3a2650cd3665ea64cda418944d1e81f2932e62",
+      "api": "modern-101",
+      "module_class_definitions": 50,
+      "api_and_test_classes_embedded": false
+    },
+    {
+      "file": "PopsicleBrightnessGuard-0.2.0-legacy.apk",
+      "bytes": 49690,
+      "sha256": "54dd2006b7d166c7fb93142ea9df5135cbc3b3cd530394466abad84c1cbc4062",
+      "api": "legacy-82",
+      "module_class_definitions": 50,
+      "api_and_test_classes_embedded": false
+    }
+  ],
+  "device_test": "User reports v0.2.0 works on Xiaomi 17 Pro Max / OS3.0.319.0.WPBCNXM / Android 16 / legacy API; no detailed test matrix, photometer or long-term validation supplied."
+}

@@ -1,0 +1,38 @@
+{
+  "read_date": "2026-10-14",
+  "note": "Research reference hashes only; upstream implementation source is not distributed.",
+  "references": [
+    {
+      "url": "https://raw.githubusercontent.com/ReChronoRain/HyperCeiler/main/library/libhook/src/main/java/com/sevtinge/hyperceiler/libhook/rules/systemframework/others/ThermalBrightness.java",
+      "sha256": "3368368d2b2590df7531a2a6850be8ef8960916b636bbbea0eb6d99a716d3f49"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/RongShangs/LumaCurve/main/README.md",
+      "sha256": "432410cb7ecd1a7e3c7fe6bd99589a33765842ae328b8d17cd7119ff99ad1004"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/aosp-mirror/platform_frameworks_base/android16-release/services/core/java/com/android/server/display/brightness/clamper/BrightnessThermalModifier.java",
+      "sha256": "b49a51525a06f501b54b6702ac9c2014ba82cec1cde911d05a88fcbb80105836"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/aosp-mirror/platform_frameworks_base/android16-release/services/core/java/com/android/server/display/DisplayPowerController.java",
+      "sha256": "5ed12f303d5d267c745969335212cd7b6aeb8c9425694ff3fe662414b6f5a876"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/aosp-mirror/platform_frameworks_base/master/services/core/java/com/android/server/display/BrightnessThrottler.java",
+      "sha256": "4e6eeda582355403027550e694963085c19d827707f29bfe0e0b02dd35f7a0a9"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/aosp-mirror/platform_frameworks_base/android16-release/services/core/java/com/android/server/display/brightness/clamper/BrightnessClamperController.java",
+      "sha256": "ac8610b5333a67c708111460a4ab8cd9689af0e9c5f8a985a2b8c73e43effb7b"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/aosp-mirror/platform_frameworks_base/android16-release/services/core/java/com/android/server/display/brightness/DisplayBrightnessController.java",
+      "sha256": "5ed6804cc09859f7db95a3f060a5e0af834c2c6da8b6b20879e89ac45a768e59"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/aosp-mirror/platform_frameworks_base/android16-release/core/java/android/hardware/display/BrightnessInfo.java",
+      "sha256": "c905e262e49c2089921d0cc7a26e00e4a3e0395171e1328abecceba1e5830151"
+    }
+  ]
+}
